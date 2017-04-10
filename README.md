@@ -12,4 +12,4 @@ Use the main_Inversion2SeaColor.m to run the 2SeaColor model. The code with the 
 
 Please cite as: Salama, M.S and Verhoef, W. (2015). Two-stream remote sensing model for water quality mapping: 2SeaColor. Remote Sensing of Environment. Volume 157, February 2015, Pages 111–122.
 
-2SeaColor was developed using MARLAB R2009b, please provide your suggestions to improve the model and the code.
+2SeaColor was developed using MATLAB R2009b, please provide your suggestions to improve the model and the code.
