@@ -1,7 +1,7 @@
 # 2SeaColor
 Two-stream remote sensing model for water quality mapping: 2SeaColor (Salama and Verhoef, 2015 Remote Sensing of Environment 157, 111–122).
 
-- 2SeaColor is a Matlab/Octave (R/Python will be available soon) code that provides analytical solution of the radiative transfer equation in the water column.
+- 2SeaColor is a Matlab/Octave (Python IS ALSO available) code that provides analytical solution of the radiative transfer equation in the water column.
 - 2SeaColor treats the direct and diffuse solar radiation separately and derives the depth profile of the downwelling attenuation coefficient   together with inherent optical properties from observed above-water remote sensing reflectance.
 - The common high turbidity of inland waters is accounted for in 2SeaColor by projecting its effect on the inherent optical properties (IOPs) using the similarity transform. 
 
